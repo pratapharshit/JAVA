@@ -1,5 +1,4 @@
 //PROGRAM TO ADD TWO NUMBERS//
-package shubhangijava;
 import java.util.Scanner;
 
 public class AddNumbers {
