@@ -1,5 +1,4 @@
 //to add complex numbers
-package shubhangijava;
 import java.util.Scanner;
 class Complex {
 		int real;
